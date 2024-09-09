@@ -14,7 +14,7 @@
 #define LED_OFF 0
 
 void init_exercise1();
-void run_exercise1();
+void exercise1_run();
 
 
 #endif /* INC_EXERCISE1_H_ */
